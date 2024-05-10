@@ -1,0 +1,119 @@
+.head {
+    border: 1px solid red;
+}
+.sh {
+    border: 2px solid red;
+}
+.cr {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.price {
+    background-color: red;
+    max-width: 300px;
+    margin-left: 650px;
+    color: white;
+}
+.image_cr {
+    display: flex;
+    justify-content: center;
+}
+.up {
+    background-color: yellow;
+    padding-bottom: 90px;
+}
+.wrapper_1 {
+    justify-content: center;
+    display: flex;
+}
+.wrapper_2 {
+    justify-content: space-between;
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.but {
+    padding: 9px;
+    color: white;
+    font-size: 14px;
+    background-color: red;
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 5px;
+}
+.kupon {
+    background-color: red;
+    box-shadow: 10px 7px 30px 5px black;
+}
+.rozigrish {
+    margin-left: 80px;
+}
+.spirt {
+    display: flex;
+    justify-content: space-between;
+}
+.text_1 {
+    font-size: 25px;
+    background-color: grey;
+    max-width: 1500px;
+    margin-left: 70px;
+}
+
+.corz {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.zakax {
+    margin-top: 50px;
+    margin-left: 45px;
+}
+.yellow {
+    background-color: yellow;
+    margin-right: 15px;
+}
+
+.input_text {
+    padding: 15px;
+    border: none;
+    background-color: #f1f1f1;
+    max-width: 600px;
+    min-width: 300px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    box-shadow: 2px 1px 5px 0.5px black;
+}
+hr {
+    height: 0px;
+    border: 0;
+    box-shadow: 2px 2px 5px 0.5px black;
+    max-width: 600px;
+    min-width: 330px;
+    margin-bottom: 20px;
+}
+
+.but_2 {
+        padding: 9px;
+        color: white;
+        font-size: 14px;
+        background-color: green;
+        border: 1px solid black;
+        margin-top: 20px;
+        padding: 15px;
+        padding-left: 12px;
+        padding-right: 12px;
+        border-radius: 5px;
+}
+.tp {
+    display: flex;
+    justify-content: end;
+}
+.pod {
+    display: flex;
+    justify-content: end;
+}
+
